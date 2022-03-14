@@ -41,6 +41,7 @@ The most important thing is to justify my choices and interpret my results. *Com
 - [Documentation for BeautifulSoup can be found here](http://www.crummy.com/software/BeautifulSoup/).
 
 
+
 ## Conclusion:
 
 After determining the job title and Summary to create predictors for my models I ran Logistic Regression,KNN classifier,DTC,RFC on my training data. After using GridSearch to find the optimal parameters for GridSearch on Logistics Regression and GridSearch on Descission Tree Classifier, the best score achieved on my  data for the Logistic Regression model is 75%,the best score for the DTC model was 68%,
