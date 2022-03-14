@@ -53,3 +53,6 @@ Per graphs shown above the Log.Reg. Model coefficients are indicating predictors
 The ROC Curve  plotted above for class 1 High Salary and class 0 Low Salary. As a matter of fact the Log. Reg. model is performing the baseline in the way that  as it increased the threshold to remove false positives, it will acquire less false negatives in relation to how many false positives will be lost.
 
 ROC gives a visualisation of the increased number of false positives for each increase in true positives that my models predict.
+
+Copy Right © | Olga Caireac | General Assemply | 
+Copy Right © | Olga Caireac | General Assemply | 
